@@ -1,7 +1,7 @@
 # My Environment
 
-Node v16.17.0
-Yarn 1.22.19
+Node v16.17.0\
+Yarn 1.22.19\
 Windows 11
 
 # Install:
